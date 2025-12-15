@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Muluken
+# I'm Muluken Assefa
 
 **IT Student at Arbaminch University| Mobile & Backend Developer | Security Enthusiast**
 
