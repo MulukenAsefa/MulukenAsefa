@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @MulukenAsefa
-- 👀 I’m interested in  Flutter app development, backend engineering, and creating impactful tech solutions.
-- 🌱 I’m currently learning Django for building robust APIs and integrating them with Flutter apps.
-- 💞️ I’m looking to collaborate on on open-source projects or innovative app ideas that make life easier.
-- 📫 How to reach me mulukenasefateju@gmail.com 
-- 😄 Pronouns:  He/Him
-- ⚡ Fun fact:I once spent hours debugging an issue, only to realize the server wasn’t running! Now, I double-check everything before diving in.
+- 👋  I’m @MulukenAsefa
+- 4th year Information Technology student at Arbaminch university.
+- I’m interested in  Flutter app development, creating impactful tech solutions and pentration tester .
+-  I’m currently learning Django for building robust APIs and integrating them with Flutter apps.
+-  I’m looking to collaborate on open-source projects or innovative secured app ideas that make life easier.
+- Contact me here ->   mulukenasefateju@gmail.com 
+- ⚡I once spent hours debugging an issue, only to realize the server wasn’t running! Now, I double-check everything before diving in.
 
 <!---
 MulukenAsefa/MulukenAsefa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
