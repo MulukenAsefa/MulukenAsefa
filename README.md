@@ -1,23 +1,21 @@
-# I'm Muluken Assefa
+# Flutter & Django | Pentesting | SOC | IT Student
 
-**IT Student at Arbaminch University| Mobile & Backend Developer | Security Enthusiast**
+**IT Student at Arbaminch University | Mobile & Backend Developer | Security Enthusiast**
 
 ## 🚀 About Me
 🎓 IT student passionate about building **secure, scalable mobile and web applications**.  
-📱 Focused on **Flutter** using  **Django ** for backend and Strong interest in **authentication (JWT)** and **penetration testing**.  
-
+📱 Focused on **Flutter** using **Django** for backend and strong interest in **authentication (JWT)** and **penetration testing**.
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-###  Mobile Development
+### Mobile Development
 - **Flutter (Dart)**
 - REST API integration
 
-###  Backend Development
+### Backend Development
 - **Django**
-
 - **JWT Authentication**
 - Role-based access control
 
@@ -26,7 +24,7 @@
 - Database design & normalization
 - Secure data handling
 
-### 🔐 Security & Penetration Testing
+### 🔐 Security & Pentesting
 - Web application security basics
 - OWASP Top 10 (learning & practice)
 - Authentication & authorization testing
@@ -36,12 +34,7 @@
 ---
 
 ## 📫 Contact Me
-📧 Email: mulukenasefateju@gmail.com 
-✈️ Telegram: https://t.me/MULUKEN_ASSEFA 
+📧 Email: mulukenasefateju@gmail.com  
+✈️ Telegram: [https://t.me/MULUKEN_ASSEFA](https://t.me/MULUKEN_ASSEFA)  
 
-
-
-  
-🤝 Open for work, collaborations and learning opportunities.
-
-
+🤝 Open for work, collaborations, and learning opportunities.
