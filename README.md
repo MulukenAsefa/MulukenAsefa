@@ -1,4 +1,4 @@
-# Flutter & Django | Pentesting | SOC | IT Student
+# Flutter Developer | Pentester | SOC | IT Student
 
 **IT Student at Arbaminch University | Mobile & Backend Developer | Security Enthusiast**
 
