@@ -14,15 +14,6 @@
 - **Flutter (Dart)**
 - REST API integration
 
-### Backend Development
-- **Django**
-- **JWT Authentication**
-- Role-based access control
-
-### 🗄️ Database
-- **PostgreSQL**
-- Database design & normalization
-- Secure data handling
 
 ### 🔐 Security & Pentesting
 - Web application security basics
