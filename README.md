@@ -1,10 +1,10 @@
 # Pentester | Flutter Developer |  IT Professional
 
-**IT Student at Arbaminch University | Security Enthusiast| Mobile & Backend Developer **
+**IT Graduated from Arbaminch University | Security Enthusiast| Mobile & Backend Developer **
 
 ## 🚀 About Me
 🎓 IT student passionate about building **secure, scalable mobile and web applications**.  
-📱 Focused on **Flutter** using **Django** for backend and strong interest in **authentication (JWT)** and **penetration testing**.
+📱 Focused on **Flutter** using **Firebase** for backend and strong interest in **authentication (JWT)** and **penetration testing**.
 
 ---
 
@@ -19,6 +19,7 @@
 
 ###  📱 Mobile Development
 - **Flutter (Dart)**
+- **Firebase**
 - REST API integration
 ---
 
