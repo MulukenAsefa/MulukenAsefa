@@ -1,4 +1,4 @@
-# Pentester | SOC | Flutter Developer |  IT Student
+# Pentester | Flutter Developer |  IT Specialist
 
 **IT Student at Arbaminch University | Security Enthusiast| Mobile & Backend Developer **
 
